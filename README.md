@@ -6,8 +6,8 @@
 6. Setelah Git terinstal di windows, Buka CMD.
 7. Ketik Perintah git --version.
 8. Kemudian membuat Global Config dengan memasukan perintah(git config --global user.name "Muhamad Freddy") dan (git config --globsl user.email "Muhamadfredy31").
-9. Buatlah folder baru dengan nama Lab.
-10.Kemudian klik kanan folder Lab1 dan pilih Git Bash.
+9. Buatlah folder baru dengan nama Latihan 1.
+10.Kemudian klik kanan folder Latihan 1 dan pilih Git Bash.
 11. Ketik perintah (mkdir latihan1).
 12. Lalu ketik perintah (cd latihan1).
 13 setelah itu membuat repository Local dengan mengetik perintah (git init).
